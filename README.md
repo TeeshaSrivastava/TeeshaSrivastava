@@ -53,4 +53,8 @@ Hi! I'm Teesha — a self-motivated developer currently learning and building in
 ---
 
 <p align="center"><i>“Code is poetry — and I’m writing mine line by line.”</i></p>
+<p align="center">
+  <!-- same image tags -->
+</p>
+
 
