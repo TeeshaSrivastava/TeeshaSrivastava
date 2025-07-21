@@ -1,36 +1,56 @@
-## Hi there 👋
+<h1 align="center">✨ Hi, I'm Teesha — WordPress & PHP Developer</h1>
+<p align="center">
+  💻 Passionate about building clean, functional web projects<br>
+  🌱 Engineering student with a strong love for code and creativity
+</p>
 
-<!--
-**TeeshaSrivastava/TeeshaSrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi! I'm Teesha — a self-motivated developer currently learning and building in the WordPress ecosystem. From crafting PHP-based CMS platforms to designing custom themes and plugins, I love turning ideas into working solutions.
+
+- 🔧 Strong foundation in PHP, HTML, CSS, JavaScript, MySQL  
+- 🌐 Experience creating custom WordPress themes & plugins  
+- 🎓 Currently pursuing Engineering with a focus on web technologies
+
+---
+
+## 🚀 Projects
+
+| 🌟 Project | Description | Tech |
+|-----------|-------------|------|
+| 🎨 [Portfolio WordPress Theme](https://github.com/TeeshaSrivastava/portfolio-wp-theme) | A custom WP theme built from scratch to showcase my profile, projects, and contact info | WordPress, PHP, HTML, CSS |
+| 📝 [Blog CMS](https://github.com/TeeshaSrivastava/blog-cms) | A mini CMS built using core PHP & MySQL with login, dashboard, and post system | PHP, MySQL, HTML, CSS |
+| 🧩 [Simple Testimonials Plugin](https://github.com/TeeshaSrivastava/simple-testimonials-plugin) | A WordPress plugin to collect & display testimonials via shortcodes | WordPress, PHP, WP-CLI |
+
+---
+
+## 🔧 Tech Stack
+
 ## 💼 Skills & Technologies
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="WordPress"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
+</p>
 
-### ⚙️ Backend / CMS
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-### 🔧 Tools & Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 📫 Contact Me
 
-### 🖥️ Other
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![LocalWP](https://img.shields.io/badge/LocalWP-2BDE73?style=for-the-badge&logo=wordpress&logoColor=white)
+- 📧 Email: your.email@example.com  
+- 🔗 [LinkedIn](https://linkedin.com/in/teesha-srivastava-983270265)  
+- 🌐 [Portfolio Website](https://TeeshaSrivastava.github.io/PORTFOLIO/)
+
+---
+
+<p align="center"><i>“Code is poetry — and I’m writing mine line by line.”</i></p>
+
