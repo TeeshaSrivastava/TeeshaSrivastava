@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi, I'm Teesha — WordPress & PHP Developer</h1>
+<h1 align="center">✨ Hi, I'm Teesha </h1>
 <p align="center">
   💻 Passionate about building clean, functional web projects<br>
   🌱 Engineering student with a strong love for code and creativity
@@ -46,7 +46,7 @@ Hi! I'm Teesha — a self-motivated developer currently learning and building in
 
 ## 📫 Contact Me
 
-- 📧 Email: your.email@example.com  
+- 📧 Email: 2k22.csai.32521@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/teesha-srivastava-983270265)  
 - 🌐 [Portfolio Website](https://TeeshaSrivastava.github.io/PORTFOLIO/)
 
