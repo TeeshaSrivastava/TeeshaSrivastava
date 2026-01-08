@@ -20,9 +20,9 @@ Hi! I'm Teesha — a self-motivated developer currently learning and building in
 
 | 🌟 Project | Description | Tech |
 |-----------|-------------|------|
-| 🎨 [Portfolio WordPress Theme](https://github.com/TeeshaSrivastava/portfolio-wp-theme) | A custom WP theme built from scratch to showcase my profile, projects, and contact info | WordPress, PHP, HTML, CSS |
-| 📝 [Blog CMS](https://github.com/TeeshaSrivastava/blog-cms) | A mini CMS built using core PHP & MySQL with login, dashboard, and post system | PHP, MySQL, HTML, CSS |
-| 🧩 [Simple Testimonials Plugin](https://github.com/TeeshaSrivastava/simple-testimonials-plugin) | A WordPress plugin to collect & display testimonials via shortcodes | WordPress, PHP, WP-CLI |
+| 🎨 [Portfolio WordPress Theme](https://github.com/TeeshaSrivastava/portfolio-wptheme) | A custom WP theme built from scratch to showcase my profile, projects, and contact info | WordPress, PHP, HTML, CSS |
+| 📝 [Blog CMS](https://github.com/TeeshaSrivastava/BLOG-CMS) | A mini CMS built using core PHP & MySQL with login, dashboard, and post system | PHP, MySQL, HTML, CSS |
+| 🧩 [Simple Testimonials Plugin]() | A WordPress plugin to collect & display testimonials via shortcodes | WordPress, PHP, WP-CLI |
 
 ---
 
